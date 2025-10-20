@@ -44,20 +44,19 @@
 - 🇺🇸🎥 [Giant Ant Cowboy](https://www.youtube.com/@GiantAntCowboy)
 
 
-
 ## Build & Print
 3D Print Models, Ressources & Tuto to build a design, ...
 
-### Websites
-- [Thingverse]
+### 3D Prints communauties
+- [Thingverse](https://www.thingiverse.com/)
 - [Printables](https://www.printables.com)
 - [Grabcad](https://grabcad.com/)
-- [myminifactory]
-- [pinshape]
-- [33Dwarehouse]
-- [Turbosquid]
-- [Autodesk Gallery]
-- [CNC drones]
+- [myminifactory](https://www.myminifactory.com/fr/)
+- [pinshape](https://pinshape.com/)
+- [33Dwarehouse](https://3dwarehouse.sketchup.com/)
+- [Turbosquid](https://www.turbosquid.com/)
+- [Autodesk Gallery](https://www.autodesk.com/community/gallery)
+- [CNC drones](https://cncdrones.com/)
 
 ### Models
 #### QUADCOPTER
@@ -120,10 +119,14 @@
 - 🇺🇸 $$ [GIMBAL](https://cults3d.com/en/3d-model/game/atomrc-dolphin-top-gimbal-2-axis-runcam-caddx) - AtomRC Dolphin TOP Gimbal 2 axis RUNCAM - CADDX 
 
 
+
+
+
 #### VRACS
 - [Raspberry & FPV](https://www.hackster.io/news/fpv-out-turns-your-raspberry-pi-into-a-video-output-for-dji-first-person-view-drone-goggles-b024965e1fa7)
 - [F405 Wing Mount](https://www.printables.com/model/921981-speedybee-f405-wing-mini-mount)
 - [ANTENNA](https://www.thingiverse.com/thing:367500) - 5.8Ghz Helical Antenna with Dowel Template for Turning
+- [Battery spacer](https://www.printables.com/model/1181-18650-improved-spacerholder) - 18650 improved spacer/holder
 
 
 
@@ -135,23 +138,23 @@
 
 
 ## DDM - Drones designs & Models
-- VTOL - https://www.youtube.com/watch?v=T-KVjCXh2_s (chinae double wing)
-- VTOL - https://www.youtube.com/watch?v=WC8hrrnOCBE (takeoff / landing quadplane)
-- VTOL - https://www.youtube.com/watch?app=desktop&v=LGRT0R4Q5cw (takeoff / landing quadplane)
-- VTOL - https://www.youtube.com/watch?v=J4uJ4yShEDA (catapult landing)
-- VTOL - https://www.youtube.com/watch?v=SrGENEXocJU (antidrone anduril)
-- VTOL - https://www.youtube.com/watch?v=k6HQ9dloBOo (vtol plane quad copter)
-- VTOL - https://www.youtube.com/watch?v=PKOeISgAvmg (vtol type switchblade by UK)
-- AIR - GRIFFIN - https://www.youtube.com/@aliptera
-- BOAT - https://www.instagram.com/craftchannelyoutube/p/CcMLfzhqqgq/?img_index=1
-- BOAT - https://www.youtube.com/watch?v=YFhADRYXi_8 (naval kamikaz sea drone)
-- COPTER - https://www.youtube.com/watch?v=2w1tBNgk5og (vtol plan tri copter)
-- COPTER - https://www.youtube.com/watch?v=uQ0oPI4AXQ8 (copter big hornet)
-- COPTER - https://www.youtube.com/watch?v=I3D559DNa04 (vtol tri copter)
-- COPTER - BlackHornet - https://root-nation.com/en/articles-en/weapons-en/en-black-hornet-drones/?amp#PD-100_Black_Hornet_structure
-- COPTER - BlackHornet SPECS - https://intofpv.com/t-black-hornet-and-its-ridiculously-long-range
-- https://www.youtube.com/watch?v=X-Q08HQq7fM (Drone Reaper UAV)
-- https://www.youtube.com/watch?v=pVBpkhpZeH0&t=135s (Wing)
+- 🎥 [VTOL](https://www.youtube.com/watch?v=T-KVjCXh2_s) - chinae double wing
+- 🎥 [VTOL](https://www.youtube.com/watch?v=WC8hrrnOCBE) - takeoff / landing quadplane
+- 🎥 [VTOL](https://www.youtube.com/watch?app=desktop&v=LGRT0R4Q5cw) - takeoff / landing quadplane
+- 🎥 [VTOL](https://www.youtube.com/watch?v=J4uJ4yShEDA)  - catapult landing)
+- 🎥 [VTOL](https://www.youtube.com/watch?v=SrGENEXocJU) - antidrone anduril)
+- 🎥 [VTOL](https://www.youtube.com/watch?v=k6HQ9dloBOo) - vtol plane quad copter)
+- 🎥 [VTOL](https://www.youtube.com/watch?v=PKOeISgAvmg) - vtol type switchblade by UK)
+- 🎥 [AIR - GRIFFIN](https://www.youtube.com/@aliptera)
+- [BOAT](https://www.instagram.com/craftchannelyoutube/p/CcMLfzhqqgq/?img_index=1)
+- 🎥 [BOAT](https://www.youtube.com/watch?v=YFhADRYXi_8) - naval kamikaz sea drone
+- 🎥 [COPTER](https://www.youtube.com/watch?v=2w1tBNgk5og) - vtol plan tri copter
+- 🎥 [COPTER](https://www.youtube.com/watch?v=uQ0oPI4AXQ8) - copter big hornet
+- 🎥 [COPTER](https://www.youtube.com/watch?v=I3D559DNa04) - vtol tri copter
+- [COPTER - BlackHornet](https://root-nation.com/en/articles-en/weapons-en/en-black-hornet-drones/?amp#PD-100_Black_Hornet_structure
+- [COPTER - BlackHornet SPECS](https://intofpv.com/t-black-hornet-and-its-ridiculously-long-range)
+- 🎥 [Building a DIY REAPER Drone... Ended Badly](https://www.youtube.com/watch?v=X-Q08HQq7fM)
+
 
 - BLIMP - https://www.rc-zeppelin.com/fr/ext%C3%A9rieur-rc-blimps-5m.html
 - BLIMP - https://www.avfoil.com/drones/video-drones/airship-blimp-uas-system/
@@ -200,8 +203,9 @@
 - [Baseflight](https://github.com/multiwii/baseflight) - Baseflight is a 32 bit fork of the MultiWii RC flight controller firmware
 - [Cleanflight](https://github.com/cleanflight/cleanflight) - Cleanflight is flight controller software for multi-rotor and fixed wings. The Cleanflight project, and related projects are used on the majority of flight controllers used around the world. There is no other software used on as many flight-controllers!
 - [ROS2 - Robotic Operating System](https://github.com/ros2)
-- [Protocol MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
-- [Protocol MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
+- [paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). Paparazzi supports fixed wing, rotorcraft, hybrids, flapping vehicles and it is even possible to use it for boats and surface vehicles.
+
+
 
 
 #### FC Configuration
@@ -211,13 +215,11 @@
 - 🇺🇸🎥 [F405 Configuration Radiomaster F405 Fixer Wing - Andrew Newton](https://www.youtube.com/watch?v=G9CZNkVmizY)
 
 ### Ground Control
+- [MAVLINK QGroundControl](https://github.com/mavlink/qgroundcontrol) - QGroundControl (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any MAVLink-enabled drone.
+- [Ardupilot MAVProxy](https://ardupilot.org/mavproxy/) - MAVProxy is a fully-functioning GCS for UAV’s, designed as a minimalist, portable and extendable GCS for any autonomous system supporting the MAVLink protocol (such as one using ArduPilot). MAVProxy is a powerful command-line based “developer” ground station software. It can be extended via add-on modules, or complemented with another ground station, such as Mission Planner, APM Planner 2, QGroundControl etc, to provide a graphical user interface.
+- [Ardupilot Mission Planner - APM](https://ardupilot.org/planner/index.html)
+- [Ardupilot Mission Planner 2 - APM2](https://ardupilot.org/planner2/) - APM Planner 2.0 is an open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
 
-- QGroundControl - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).
-- Arduleader - 👻 An android ground controller (and other things) for Mavlink/Arduplane.
-- Tower - 👻 Ground Control Station for Android Devices.
-- MAVProxy - A UAV ground station software package for MAVLink based systems.
-- Ardupilot Mission Planner - A full-featured ground station application for the ArduPilot open source autopilot project.
-- APM Planner 2 - An open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
 
 
 
@@ -239,14 +241,29 @@
 - 🇫🇷 [Tuto FRSKY](https://culturefpv.fr/eclaircissements-sur-les-radio-frsky-int-lbt-fcc-d16-d8-20190502/)
 
 
+
+
 ### VTX/VRX
 - 🇺🇸 [Eachine TX805 - Oscar Liang](https://oscarliang.com/eachine-tx805-vtx/)
 - 🇺🇸 [DJI O4 Lite - Oscar Liang](https://oscarliang.com/dji-o4-air-unit-lite/)
 - 🇺🇸 [FPV Antenna - Oscar Liang](https://oscarliang.com/best-fpv-antenna/)
 - 🇫🇷 [VRX Comparatif - Culture FPV](https://culturefpv.fr/recepteur-video-vrx-tableau-comparatif-20180715/)
 
+
+
+
 ### Goggles
 - 🇫🇷 [Goggles Comparatif - CultureFPV](https://culturefpv.fr/lunettes-fpv-tableau-comparatif-20180701/)
+- [DIY FPV Goggle Battery Pack](https://nuxnik.com/diy-fpv-goggle-battery-pack)
+- [DIY Homemade FPV Monitor](https://hackaday.io/project/160893-diy-homemade-fpv-monitor)
+
+
+
+### Batteries
+- 🇺🇸 [Tuto Battery - Oscar Liang](https://oscarliang.com/li-ion-battery-long-range/) - Using Li-ion Battery Packs for Long Range FPV Drone Flying
+- [DIY BMS](https://github.com/stuartpittaway/diyBMSv4) - Do it yourself battery management system for Lithium ion battery packs/cells
+
+
 
 ### Antenna
 - 🇺🇸🎥 [Long Range Setup](https://www.youtube.com/watch?v=CYphV5FPbYc) - NEW Long Range, High Penetration, DIY FPV Antenna Setup for HDZERO, Analog, DJI or WalkSnail Review
@@ -254,7 +271,11 @@
 - 🇺🇸🎥 [Long Range Setup - AeroStuff FPV](https://www.youtube.com/watch?v=9pCWm5FrtKs) - Homemade 34-Turn Helical Antenna for Long Range FPV Review & Range Test - Helical vs Patch
 
 
-
+### Telemetry & Logs
+- [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
+- [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
+- [INAV Lua Telemetry Flight Status for Taranis/Horus/Jumper/Nirvana](https://github.com/teckel12/LuaTelemetry)
+- [PID Analyzer](https://github.com/Plasmatree/PID-Analyzer) - This program reads Betaflight blackbox logs and calculates the PID step response. It is made as a tool for a more systematic approach to PID tuning.
 
 
 ### ESC
@@ -266,6 +287,8 @@
 - 🎥 [Sonar 180° Ultrasonic](https://www.youtube.com/watch?v=s2ZKvNP3Utk) - Arduino Ultrasonic Rangefinder With Graphic PC Display Project
 - 🎥 [Sonar 180° Arduino](https://www.youtube.com/watch?v=Tr0MF8FU_60) - Arduino Radar / Sonar, using Arduino & Processing | Full Tutorial
 - [Sonar 360° UltraSonic](https://github.com/indiejoseph/Radar)
+
+
 
 
 ### Photogrammettry
@@ -294,11 +317,10 @@
 
 
 
-
 ## VRACS
 - [WIFI Radio Long Range](https://github.com/svpcom/wfb-ng)
 - [DroneCAN](https://dronecan.github.io/) - DroneCAN is the primary CAN protocol used by the ArduPilot and PX4 projects for communication with CAN peripherals
 - [Drone IHM to Control](https://www.instructables.com/How-to-Control-Any-Drone-From-Your-Arduino-Microco/)
-- [WIFI OpenHD](https://github.com/OpenHD/OpenHD)
+- [WIFI OpenHD VTX?](https://github.com/OpenHD/OpenHD)
 - 🇺🇸 [SERVO](https://surtrtech.com/2018/01/27/use-servo-motors-with-arduino/) - Use servo motors with Arduino
 

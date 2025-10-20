@@ -21,9 +21,9 @@
 
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
-- [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
-- [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
-- [AirFlex - Tuto Video](https://www.youtube.com/watch?v=gub4dG2LAs4) - FPV pour les nuls
+- 🇫🇷🎥 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
+- 🇫🇷🎥 [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
+- 🇫🇷🎥 [AirFlex - Tuto Video](https://www.youtube.com/watch?v=gub4dG2LAs4) - FPV pour les nuls
 - [Awsome List #1](https://github.com/janesmae/awesome-drones)
 - [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft)
 - [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv)

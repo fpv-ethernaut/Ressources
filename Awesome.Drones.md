@@ -138,19 +138,17 @@
 
 
 ## DDM - Drones designs & Models
-- 🎥 [VTOL](https://www.youtube.com/watch?v=T-KVjCXh2_s) - chinae double wing
-- 🎥 [VTOL](https://www.youtube.com/watch?v=WC8hrrnOCBE) - takeoff / landing quadplane
-- 🎥 [VTOL](https://www.youtube.com/watch?app=desktop&v=LGRT0R4Q5cw) - takeoff / landing quadplane
-- 🎥 [VTOL](https://www.youtube.com/watch?v=J4uJ4yShEDA)  - catapult landing)
-- 🎥 [VTOL](https://www.youtube.com/watch?v=SrGENEXocJU) - antidrone anduril)
-- 🎥 [VTOL](https://www.youtube.com/watch?v=k6HQ9dloBOo) - vtol plane quad copter)
-- 🎥 [VTOL](https://www.youtube.com/watch?v=PKOeISgAvmg) - vtol type switchblade by UK)
+- 🎥 [VTOL - China double wing](https://www.youtube.com/watch?v=T-KVjCXh2_s) - Fixed-wing drone with vertical takeoff unveiled at China high-tech fair
+- 🎥 [VTOL - Tandem Drone](https://www.youtube.com/watch?v=WC8hrrnOCBE) - Tandem Drone System: Quadplane carrying a Quadcopter
+- 🎥 [VTOL - Catapul landing](https://www.youtube.com/watch?v=J4uJ4yShEDA)  - Landing Drone Aircraft With No Runway: Unique 'SkyHook' Recovery System
+- 🎥 [VTOL - Dragonfish](https://www.youtube.com/watch?v=k6HQ9dloBOo)
+- 🎥 [VTOL - Aerovel Flexrotor](https://www.youtube.com/watch?v=PKOeISgAvmg) - Aerovel Flexrotor: The Newest US Navy’s VTOL Drone
 - 🎥 [AIR - GRIFFIN](https://www.youtube.com/@aliptera)
 - [BOAT](https://www.instagram.com/craftchannelyoutube/p/CcMLfzhqqgq/?img_index=1)
-- 🎥 [BOAT](https://www.youtube.com/watch?v=YFhADRYXi_8) - naval kamikaz sea drone
-- 🎥 [COPTER](https://www.youtube.com/watch?v=2w1tBNgk5og) - vtol plan tri copter
-- 🎥 [COPTER](https://www.youtube.com/watch?v=uQ0oPI4AXQ8) - copter big hornet
-- 🎥 [COPTER](https://www.youtube.com/watch?v=I3D559DNa04) - vtol tri copter
+- 🎥 [BOAT - Naval Kamikaze Sea Drone](https://www.youtube.com/watch?v=YFhADRYXi_8) - Naval Kamikaze Sea Drone How it works using Starlink Satellite
+- 🎥 [COPTER - ANCILLARY](https://www.youtube.com/watch?v=2w1tBNgk5og) - DARPA’s ANCILLARY, Electric Powered Vertical Take Off and Landing (VTOL) Drone
+- 🎥 [COPTER - Ghost Drone](https://www.youtube.com/watch?v=uQ0oPI4AXQ8) - Closer look at the new Ghost Drone being trialled by the RAF & US Army 
+- 🎥 [COPTER - Tricopter - Tie Fighter](https://www.youtube.com/watch?v=I3D559DNa04)
 - [COPTER - BlackHornet](https://root-nation.com/en/articles-en/weapons-en/en-black-hornet-drones/?amp#PD-100_Black_Hornet_structure
 - [COPTER - BlackHornet SPECS](https://intofpv.com/t-black-hornet-and-its-ridiculously-long-range)
 - 🎥 [Building a DIY REAPER Drone... Ended Badly](https://www.youtube.com/watch?v=X-Q08HQq7fM)
@@ -168,17 +166,6 @@
 - 🇫🇷🎥 [SpeedBoat](https://www.youtube.com/watch?v=DWK47UJGVgw) - Comment fabriquer un bateau à balancier RC imprimé en 3D à grande vitesse 
 - 🇺🇸🎥 [SpeedBoat](https://www.youtube.com/watch?v=c7WW3xf58QQ) - 10 Drone Motors on 3D Printed Boat
 - 🇺🇸🎥 [Sailboat](https://www.youtube.com/watch?v=reXc0vZ47N4) - Building a DIY Drone Sailboat
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -230,7 +217,7 @@
 - 🇺🇸 [Tuto ELRS - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
 - 🇺🇸 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
 - 🇺🇸 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) - This repo contains published hardware information for the AnyLeaf ELRS receivers.
-- 🇫🇷🎥 [ELRS Tuto](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
+- 🇫🇷🎥 [Tuto ELRS](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
 
 - [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)
 - 🇺🇸 [ELRS Bluetooth Joystick - Oscar Liang](https://oscarliang.com/expresslrs-bluetooth-joystick/)
@@ -259,6 +246,7 @@
 
 
 
+
 ### Batteries
 - 🇺🇸 [Tuto Battery - Oscar Liang](https://oscarliang.com/li-ion-battery-long-range/) - Using Li-ion Battery Packs for Long Range FPV Drone Flying
 - [DIY BMS](https://github.com/stuartpittaway/diyBMSv4) - Do it yourself battery management system for Lithium ion battery packs/cells
@@ -271,6 +259,8 @@
 - 🇺🇸🎥 [Long Range Setup - AeroStuff FPV](https://www.youtube.com/watch?v=9pCWm5FrtKs) - Homemade 34-Turn Helical Antenna for Long Range FPV Review & Range Test - Helical vs Patch
 
 
+
+
 ### Telemetry & Logs
 - [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
 - [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
@@ -278,8 +268,12 @@
 - [PID Analyzer](https://github.com/Plasmatree/PID-Analyzer) - This program reads Betaflight blackbox logs and calculates the PID step response. It is made as a tool for a more systematic approach to PID tuning.
 
 
+
+
 ### ESC
 - 🎥 [Hobbywing Skywalker V2 15A-100A Setup](https://www.youtube.com/watch?v=py5nzE1prA4)
+
+
 
 
 ### Graphical Radar + moteur
@@ -295,21 +289,18 @@
 - [Photogrammettry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
 - [Photogrammettry NerfStudio](https://github.com/nerfstudio-project/nerfstudio)
 
+
+
 ### CV Tracking + Gimbal
 - [HeadTracking](https://www.youtube.com/watch?v=f2TUxoaKIsA)
 - [HeadTracking](https://github.com/rizkydermawan1992/face-detection)
 
 
+
+
 ### Cybersecurity
 - [Reverse Firmware STM32](https://medium.com/techmaker/reverse-engineering-stm32-firmware-578d53e79b3)
 - [DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity)
-
-
-
-
-
-
-
 
 
 
@@ -323,4 +314,3 @@
 - [Drone IHM to Control](https://www.instructables.com/How-to-Control-Any-Drone-From-Your-Arduino-Microco/)
 - [WIFI OpenHD VTX?](https://github.com/OpenHD/OpenHD)
 - 🇺🇸 [SERVO](https://surtrtech.com/2018/01/27/use-servo-motors-with-arduino/) - Use servo motors with Arduino
-

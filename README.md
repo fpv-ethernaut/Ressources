@@ -27,9 +27,11 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 📚 Reading Resources (Blog, website, books, ...)
 - ⭐ Starts & followers
 - 🤑 paid
-- 🇺🇸🇫🇷🇨🇳 Main languages spoken
+- 🇺🇸🇨🇳🇫🇷 Main languages spoken
 -  Parking 🛰️📡🚀💥🧨🎯🔥✈️📎📚
 
+
+---
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
 - 🇫🇷📚 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
@@ -60,6 +62,8 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇺🇸🎥 [Giant Ant Cowboy](https://www.youtube.com/@GiantAntCowboy)
 
 
+
+---
 ## Build And Print
 3D Print Models, Ressources & Tuto to build a design, ...
 
@@ -82,15 +86,15 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 | [#4](https://www.thingiverse.com/thing:2004357)
 - 📎 [cinewhoop](https://www.thingiverse.com/thing:4502805)
 - 📎 [Micro PiratFrame](https://www.thingiverse.com/thing:4549609)
-- 📎 Nano quadcopter 2inch [#1](https://www.printables.com/de/model/396395-goblin-fpv-drone) | [#2](https://www.thingiverse.com/thing:4769576) | [#4](https://www.thingiverse.com/thing:4818009)
+- 📎 Nano quadcopter 2inch [#1](https://www.printables.com/de/model/396395-goblin-fpv-drone) | [#2](https://www.thingiverse.com/thing:4769576) | [#3](https://www.thingiverse.com/thing:4818009)
 
 
 #### FIXED WINGS
-- [SakhWing - Nano Drake](https://www.thingiverse.com/thing:4547317)
-- [Hawk version 1.0](https://www.printables.com/de/model/422806-hawk-modular-rc-wing-airplane)
-- [BLACKLISTED](https://www.thingiverse.com/thing:3714471) - ECLIPSON - Blackwing
-- 🤑 [Valkyrie](https://cults3d.com/en/3d-model/various/xq-58a-valkyrie-r-c-jet-for-90mm-edf)
-- [Talon Tuto build](https://www.rcgroups.com/forums/showthread.php?3328341-ZOHD-Talon-GT-Rebel-FPV-plane-1000mm-full-review-build-log)
+- 📎 [SakhWing - Nano Drake](https://www.thingiverse.com/thing:4547317)
+- 📎 [Hawk version 1.0](https://www.printables.com/de/model/422806-hawk-modular-rc-wing-airplane)
+- 📎 [BLACKLISTED](https://www.thingiverse.com/thing:3714471) - ECLIPSON - Blackwing
+- 📎 🤑 [Valkyrie](https://cults3d.com/en/3d-model/various/xq-58a-valkyrie-r-c-jet-for-90mm-edf)
+- 📚 [Talon Tuto build](https://www.rcgroups.com/forums/showthread.php?3328341-ZOHD-Talon-GT-Rebel-FPV-plane-1000mm-full-review-build-log)
 
 
 #### V TAIL
@@ -121,9 +125,9 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 ### Components
 #### PRINT TPU
-- [PiratFrames TPU](https://www.thingiverse.com/piratframes/designs) - PiratFrames TPU
-- 📚 [Oscarliang Designs](https://www.thingiverse.com/osliang/designs) - Oscar Liang Designs
-- [Kayou TPU](https://www.printables.com/fr/model/826353-kayoudur-5-tpu-collection) - Kayou TPU
+- 📎 [PiratFrames TPU](https://www.thingiverse.com/piratframes/designs) - PiratFrames TPU
+- 📎 [Oscarliang Designs](https://www.thingiverse.com/osliang/designs) - Oscar Liang Designs
+- 📎 [Kayou TPU](https://www.printables.com/fr/model/826353-kayoudur-5-tpu-collection) - Kayou TPU
 
 
 #### Gimbals & Servos
@@ -136,17 +140,18 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 
-#### VRACS
-- [Raspberry & FPV](https://www.hackster.io/news/fpv-out-turns-your-raspberry-pi-into-a-video-output-for-dji-first-person-view-drone-goggles-b024965e1fa7)
-- [F405 Wing Mount](https://www.printables.com/model/921981-speedybee-f405-wing-mini-mount)
-- [ANTENNA](https://www.thingiverse.com/thing:367500) - 5.8Ghz Helical Antenna with Dowel Template for Turning
-- [Battery spacer](https://www.printables.com/model/1181-18650-improved-spacerholder) - 18650 improved spacer/holder
+### VRACS
+
+- 📎 [F405 Wing Mount](https://www.printables.com/model/921981-speedybee-f405-wing-mini-mount)
+- 📎 [ANTENNA](https://www.thingiverse.com/thing:367500) - 5.8Ghz Helical Antenna with Dowel Template for Turning
+- 📎 [Battery spacer](https://www.printables.com/model/1181-18650-improved-spacerholder) - 18650 improved spacer/holder
 
 
 
-#### Raspberry Galaxy
-- [Raspberry Pi 7 Inch Touchscreen display case](https://www.thingiverse.com/thing:5849949)
-- [Raspberry Pi 7 Inch Touchscreen display case](https://www.printables.com/model/18153-raspberry-pi-7-inch-touchscreen-display-case)
+### Companions Galaxy
+#### Raspberry
+- 📚 [Raspberry & FPV](https://www.hackster.io/news/fpv-out-turns-your-raspberry-pi-into-a-video-output-for-dji-first-person-view-drone-goggles-b024965e1fa7)
+- 📎 Raspberry Pi 7 Inch Touchscreen display case [#1](https://www.thingiverse.com/thing:5849949) | [#2](https://www.printables.com/model/18153-raspberry-pi-7-inch-touchscreen-display-case)
 
 
 

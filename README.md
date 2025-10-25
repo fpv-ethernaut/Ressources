@@ -218,12 +218,11 @@
 ### RX/TX
 #### ELRS Resources
 - 🇺🇸🥷 [Official ExpressLRS Repository](https://github.com/ExpressLRS/ExpressLRS) 
+- 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
 - 🇺🇸🥷 [Arduino ELRS Transmitter](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS)
 - 🇺🇸 [Tuto - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
-- 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
 - 🇺🇸🥷 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) - This repo contains published hardware information for the AnyLeaf ELRS receivers.
 - 🇫🇷🎥 [Tuto ELRS](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
-
 - 🥷 [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)
 - 🇺🇸 [ELRS Bluetooth Joystick - Oscar Liang](https://oscarliang.com/expresslrs-bluetooth-joystick/)
 

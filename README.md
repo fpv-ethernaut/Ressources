@@ -37,6 +37,9 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇺🇸🥷 [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv) ⭐504
 - 🇨🇳🥷 [Awsome List #4](https://github.com/apachecn/awesome-drones-zh) ⭐485
 - 🇺🇸🥷 [Awsome List #5](https://github.com/VisDrone/Awesome-VisDrone) ⭐194
+- 🇺🇸🥷 [Awsome List #6](https://github.com/bpodchezertsev/awesome-tech-designs) ⭐3
+
+
 
 ### YOUTUBE & Influencers Resources
 - 🇫🇷🎥 [We are FPV](https://www.youtube.com/@WearefpvFr) - WE are FPV c'est LE média communautaire du (drone) FPV.
@@ -192,15 +195,15 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇺🇸 [Tuto controller - Oscar Liang](https://oscarliang.com/flight-controller/)
 - 🇺🇸 [Tuto Simulator - Oscar Liang](https://oscarliang.com/betaflight-fc-fpv-simulator/)
 
-- 🥷 [BetaFlight](https://github.com/betaflight/betaflight)
-- 🥷 [INAV](https://github.com/iNavFlight/inav)
-- 🥷 [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot)
-- 🥷 [ArduPilot](https://github.com/ArduPilot/ardupilot)
-- 🥷 [Butterflight](https://github.com/ButterFlight/butterflight) - Butterflight is flight controller software (firmware) used to fly multi-rotor craft and fixed wing craft. This fork differs from Baseflight and Cleanflight in that it focuses on flight performance, leading-edge feature additions, and wide target support.
-- 🥷 [Baseflight](https://github.com/multiwii/baseflight) - Baseflight is a 32 bit fork of the MultiWii RC flight controller firmware
-- 🥷 [Cleanflight](https://github.com/cleanflight/cleanflight) - Cleanflight is flight controller software for multi-rotor and fixed wings. The Cleanflight project, and related projects are used on the majority of flight controllers used around the world. There is no other software used on as many flight-controllers!
-- 🥷 [ROS2 - Robotic Operating System](https://github.com/ros2)
-- 🥷 [paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). Paparazzi supports fixed wing, rotorcraft, hybrids, flapping vehicles and it is even possible to use it for boats and surface vehicles.
+- 🥷 [BetaFlight](https://github.com/betaflight/betaflight) ⭐10.2K
+- 🥷 [INAV](https://github.com/iNavFlight/inav) ⭐3.8K
+- 🥷 [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐10.3K
+- 🥷 [ArduPilot](https://github.com/ArduPilot/ardupilot) ⭐13.9K
+- 🥷 [Butterflight](https://github.com/ButterFlight/butterflight) ⭐106 - Butterflight is flight controller software (firmware) used to fly multi-rotor craft and fixed wing craft. This fork differs from Baseflight and Cleanflight in that it focuses on flight performance, leading-edge feature additions, and wide target support.
+- 🥷 [Baseflight](https://github.com/multiwii/baseflight) ⭐522 - Baseflight is a 32 bit fork of the MultiWii RC flight controller firmware
+- 🥷 [Cleanflight](https://github.com/cleanflight/cleanflight) ⭐2.7k - Cleanflight is flight controller software for multi-rotor and fixed wings. The Cleanflight project, and related projects are used on the majority of flight controllers used around the world. There is no other software used on as many flight-controllers!
+- 🥷 [ROS2 - Robotic Operating System](https://github.com/ros2) ⭐3.5K
+- 🥷 [paparazzi](https://github.com/paparazzi/paparazzi) ⭐1.6K - Paparazzi is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). Paparazzi supports fixed wing, rotorcraft, hybrids, flapping vehicles and it is even possible to use it for boats and surface vehicles.
 
 
 
@@ -212,7 +215,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇺🇸🎥 [F405 Configuration Radiomaster F405 Fixer Wing - Andrew Newton](https://www.youtube.com/watch?v=G9CZNkVmizY)
 
 ### Ground Control
-- 🥷 [MAVLINK QGroundControl](https://github.com/mavlink/qgroundcontrol) - QGroundControl (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any MAVLink-enabled drone.
+- 🥷 [MAVLINK QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐4k - QGroundControl (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any MAVLink-enabled drone.
 - 🥷 [Ardupilot MAVProxy](https://ardupilot.org/mavproxy/) - MAVProxy is a fully-functioning GCS for UAV’s, designed as a minimalist, portable and extendable GCS for any autonomous system supporting the MAVLink protocol (such as one using ArduPilot). MAVProxy is a powerful command-line based “developer” ground station software. It can be extended via add-on modules, or complemented with another ground station, such as Mission Planner, APM Planner 2, QGroundControl etc, to provide a graphical user interface.
 - 🥷 [Ardupilot Mission Planner - APM](https://ardupilot.org/planner/index.html)
 - 🥷 [Ardupilot Mission Planner 2 - APM2](https://ardupilot.org/planner2/) - APM Planner 2.0 is an open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
@@ -223,13 +226,13 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 ### RX/TX
 #### ELRS Resources
-- 🇺🇸🥷 [Official ExpressLRS Repository](https://github.com/ExpressLRS/ExpressLRS) 
-- 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
-- 🇺🇸🥷 [Arduino ELRS Transmitter](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS)
+- 🇺🇸🥷 [Official ExpressLRS Repository](https://github.com/ExpressLRS/ExpressLRS)  ⭐4.5K
+- 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/) ⭐741
+- 🇺🇸🥷 [Arduino ELRS Transmitter](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) ⭐317
 - 🇺🇸 [Tuto - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
-- 🇺🇸🥷 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) - This repo contains published hardware information for the AnyLeaf ELRS receivers.
+- 🇺🇸🥷 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) ⭐54 - This repo contains published hardware information for the AnyLeaf ELRS receivers.
 - 🇫🇷🎥 [Tuto ELRS](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
-- 🥷 [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)
+- 🥷 [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)⭐197
 - 🇺🇸 [ELRS Bluetooth Joystick - Oscar Liang](https://oscarliang.com/expresslrs-bluetooth-joystick/)
 
 #### Radiomaster & Crossfire Binding
@@ -275,7 +278,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 
-### Telemetry & Logs
+### Sensors, Telemetry & Logs
 - 🥷 [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
 - 🥷 [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
 - 🥷 [INAV Lua Telemetry Flight Status for Taranis/Horus/Jumper/Nirvana](https://github.com/teckel12/LuaTelemetry)

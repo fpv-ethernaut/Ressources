@@ -20,12 +20,14 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 - 🥷 Github Resources
 - 🎥 Youtube Resources
-- 🇺🇸🇫🇷🇨🇳 Main languages
-- 🤑 paid
-- 🏴‍☠️ Cybersecurity
-- 🧠 Machine Learning, IA, Autonomous
-- 🤖 Robotics
+- 📎 File Resources
+- 🏴‍☠️ Cybersecurity Oriented
+- 🧠 Machine Learning, IA, Autonomous Oriented
+- 🤖 Robotics Oriented
 - 📚 Reading Resources (Blog, website, books, ...)
+- ⭐ Starts & followers
+- 🤑 paid
+- 🇺🇸🇫🇷🇨🇳 Main languages spoken
 -  Parking 🛰️📡🚀💥🧨🎯🔥✈️📎📚
 
 ## Resources for beginners
@@ -62,27 +64,25 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 3D Print Models, Ressources & Tuto to build a design, ...
 
 ### 3D Prints communauties
-- [Thingverse](https://www.thingiverse.com/)
-- [Printables](https://www.printables.com)
-- [Grabcad](https://grabcad.com/)
-- [myminifactory](https://www.myminifactory.com/fr/)
-- [pinshape](https://pinshape.com/)
-- [33Dwarehouse](https://3dwarehouse.sketchup.com/)
-- [Turbosquid](https://www.turbosquid.com/)
-- [Autodesk Gallery](https://www.autodesk.com/community/gallery)
-- [CNC drones](https://cncdrones.com/)
+- 🇺🇸📚 [Thingverse](https://www.thingiverse.com/)
+- 🇺🇸📚 [Printables](https://www.printables.com)
+- 🇺🇸📚 [Grabcad](https://grabcad.com/)
+- 🇺🇸📚 [myminifactory](https://www.myminifactory.com/fr/)
+- 🇺🇸📚 [pinshape](https://pinshape.com/)
+- 🇺🇸📚 [33Dwarehouse](https://3dwarehouse.sketchup.com/)
+- 🇺🇸📚 [Turbosquid](https://www.turbosquid.com/)
+- 🇺🇸📚 [Autodesk Gallery](https://www.autodesk.com/community/gallery)
+- 🇺🇸📚 [CNC drones](https://cncdrones.com/)
 
 ### Models
 #### QUADCOPTER
-- DJI Mavic Clone Frame [#1](https://www.instructables.com/Printable-Foldable-Quadcopter-DJI-Mavic-Clone-Fram/) 
+- 📎 DJI Mavic Clone Frame [#1](https://www.instructables.com/Printable-Foldable-Quadcopter-DJI-Mavic-Clone-Fram/) 
 | [#2](https://www.thingiverse.com/thing:1904276)
 | [#3](https://www.thingiverse.com/thing:1940102)
 | [#4](https://www.thingiverse.com/thing:2004357)
-- [cinewhoop](https://www.thingiverse.com/thing:4502805)
-- [Micro PiratFrame](https://www.thingiverse.com/thing:4549609)
-- [Nano quadcopter 2inch](https://www.printables.com/de/model/396395-goblin-fpv-drone)
-- [Nano quadcopter 2inch](https://www.thingiverse.com/thing:4769576)
-- [Nano quadcopter 2inch](https://www.thingiverse.com/thing:4818009)
+- 📎 [cinewhoop](https://www.thingiverse.com/thing:4502805)
+- 📎 [Micro PiratFrame](https://www.thingiverse.com/thing:4549609)
+- 📎 Nano quadcopter 2inch [#1](https://www.printables.com/de/model/396395-goblin-fpv-drone) | [#2](https://www.thingiverse.com/thing:4769576) | [#4](https://www.thingiverse.com/thing:4818009)
 
 
 #### FIXED WINGS

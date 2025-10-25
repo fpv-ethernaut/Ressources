@@ -25,7 +25,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🏴‍☠️ Cybersecurity
 - 🧠 Machine Learning, IA, Autonomous
 - 🤖 Robotics
-🛰️📡🚀💥🧨🎯🔥✈️
+-  Parking 🛰️📡🚀💥🧨🎯🔥✈️
 
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist

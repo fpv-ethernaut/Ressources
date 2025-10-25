@@ -21,12 +21,12 @@
 
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
-- 🇫🇷🎥 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
-- 🇫🇷🎥 [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
+- 🇫🇷 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
+- 🇫🇷 [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
 - 🇫🇷🎥 [AirFlex - Tuto Video](https://www.youtube.com/watch?v=gub4dG2LAs4) - FPV pour les nuls
-- [Awsome List #1](https://github.com/janesmae/awesome-drones)
-- [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft)
-- [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv)
+- 🇺🇸 [Awsome List #1](https://github.com/janesmae/awesome-drones) 
+| 🇺🇸 [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft) 
+| 🇺🇸 [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv)
 
 ### YOUTUBE & Influencers Resources
 - 🇫🇷🎥 [We are FPV](https://www.youtube.com/@WearefpvFr) - WE are FPV c'est LE média communautaire du (drone) FPV.
@@ -301,7 +301,7 @@
 ### Cybersecurity
 - [Reverse Firmware STM32](https://medium.com/techmaker/reverse-engineering-stm32-firmware-578d53e79b3)
 - [DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity)
-
+- [Awesome Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking)
 
 
 

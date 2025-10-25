@@ -216,21 +216,24 @@
 
 
 ### RX/TX
-
-
-- 🇺🇸 ELRS 🥷[Official ExpressLRS Repository](https://github.com/ExpressLRS/ExpressLRS) 
-| 🥷[Arduino ELRS Transmitter](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS)
-[Tuto - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
-- [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
+#### ELRS Resources
+- 🇺🇸🥷 [Official ExpressLRS Repository](https://github.com/ExpressLRS/ExpressLRS) 
+- 🇺🇸🥷 [Arduino ELRS Transmitter](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS)
+- 🇺🇸 [Tuto - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
+- 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
 - 🇺🇸🥷 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) - This repo contains published hardware information for the AnyLeaf ELRS receivers.
 - 🇫🇷🎥 [Tuto ELRS](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
 
 - 🥷 [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)
 - 🇺🇸 [ELRS Bluetooth Joystick - Oscar Liang](https://oscarliang.com/expresslrs-bluetooth-joystick/)
+
+#### Radiomaster & Crossfire Binding
 - 🇺🇸🎥 [Tuto RX TBS + Radiomaster (crossfire) Bind & Configuration](https://www.youtube.com/watch?v=0pihx42GtIs) - How-to Bind TBS Crossfire with Radiomaster TX16s and TBS Crossfire First Look
 - 🇺🇸🎥 [Tuto TX RadioMaster Pocket Biend & Configuration](https://www.youtube.com/watch?v=GgaWMvAHZi8) - RadioMaster Pocket - How To Set Up and Bind a Drone - Step by Step
 - 🇺🇸 [Tuto setup TX Radiomaster Pocket - Oscar Liang](https://oscarliang.com/setup-radiomaster-pocket/)
 - 🇺🇸🎥 [Tuto RX Configuration + iNav](https://www.youtube.com/watch?v=0JPc7RROnY4) - Connecting the receiver and setting up in iNav
+
+#### FrSky
 - 🇫🇷 [Tuto FRSKY](https://culturefpv.fr/eclaircissements-sur-les-radio-frsky-int-lbt-fcc-d16-d8-20190502/)
 
 

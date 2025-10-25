@@ -1,5 +1,7 @@
 # Awesome Drones Resources
 
+Awesome list of resources drones oriented, specially turn on :
+Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 ---
 
@@ -20,6 +22,10 @@
 - 🎥 Youtube Resources
 - 🇺🇸🇫🇷🇨🇳 Main languages
 - 🤑 paid
+- 🏴‍☠️ Cybersecurity
+- 🧠 Machine Learning, IA, Autonomous
+- 🤖 Robotics
+🛰️📡🚀💥🧨🎯🔥✈️
 
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist

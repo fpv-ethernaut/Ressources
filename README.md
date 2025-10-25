@@ -19,6 +19,7 @@
 - 🥷 Github Resources
 - 🎥 Youtube Resources
 - 🇺🇸🇫🇷🇨🇳 Main languages
+- 🤑 paid
 
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
@@ -78,7 +79,7 @@
 - [SakhWing - Nano Drake](https://www.thingiverse.com/thing:4547317)
 - [Hawk version 1.0](https://www.printables.com/de/model/422806-hawk-modular-rc-wing-airplane)
 - [BLACKLISTED](https://www.thingiverse.com/thing:3714471) - ECLIPSON - Blackwing
-- $$ [Valkyrie](https://cults3d.com/en/3d-model/various/xq-58a-valkyrie-r-c-jet-for-90mm-edf)
+- 🤑 [Valkyrie](https://cults3d.com/en/3d-model/various/xq-58a-valkyrie-r-c-jet-for-90mm-edf)
 - [Talon Tuto build](https://www.rcgroups.com/forums/showthread.php?3328341-ZOHD-Talon-GT-Rebel-FPV-plane-1000mm-full-review-build-log)
 
 
@@ -86,23 +87,23 @@
 - 🇺🇸🎥 [Tuto build VTAIL - AeroStuff](https://www.youtube.com/watch?v=O13N4SHhvxw) -  How to build a V-Tail Aircraft for Long Range FPV - Silver Eagle
 - 🇺🇸🎥 [Tuto build VTAIL - AeroStuff](https://www.youtube.com/watch?v=sTjXVeo_lpQ) - How to build a V-Tail Aircraft for Long Range FPV & Autonomous Missions
 - 🇺🇸🎥 [Tuto build VTAIL- AeroStuff](https://www.youtube.com/watch?v=857wGTf7r1s) - Narrated Long Range FPV - 10.5km Lake Cruise - Airplane Setup & Flight
-- $$ [SwitchBlade](https://cults3d.com/en/3d-model/art/switchblade-300-kamikaze-drone)
-- $$ [SwitchBlade](https://www.turbosquid.com/3d-models/switchblade-600-drone-3d-model-1956112)
+- 🤑 [SwitchBlade](https://cults3d.com/en/3d-model/art/switchblade-300-kamikaze-drone)
+- 🤑 [SwitchBlade](https://www.turbosquid.com/3d-models/switchblade-600-drone-3d-model-1956112)
 
 
 #### COPTER
 - [BiCopter](https://hackaday.com/2018/08/27/the-best-new-quad-is-a-bicopter/)
 - [Nano Copter](https://www.horizonhobby.com/product/nano-s3-bnf-basic-with-as3x-and-safe/BLH01350.html)
-- $$ [BlackHornet](https://www.turbosquid.com/3d-models/3d-model-flir-drone-black-hornet-nano-uav-rigged-1918240)
+- 🤑 [BlackHornet](https://www.turbosquid.com/3d-models/3d-model-flir-drone-black-hornet-nano-uav-rigged-1918240)
 
 #### OTHERS AIR
 - [Balloon](https://www.instructables.com/How-to-Construct-a-Weather-Balloon/)
 
 
 #### BOATS
-- $$ [Powerboat](https://cults3d.com/en/3d-model/gadget/pt-44-r-c-model-powerboat)
+- 🤑 [Powerboat](https://cults3d.com/en/3d-model/gadget/pt-44-r-c-model-powerboat)
 - [HoverCraft](https://www.instructables.com/3D-Printed-RC-Hovercraft-IPACV-3D/)
-- $$ [Boat - Hydroplane](https://projectair.co.uk/products/rocket-powered-hydroplane)
+- 🤑 [Boat - Hydroplane](https://projectair.co.uk/products/rocket-powered-hydroplane)
 
 
 
@@ -117,9 +118,9 @@
 
 #### Gimbals & Servos
 - 🇺🇸 [GIMBAL](https://www.instructables.com/Control-Dual-Axis-FPV-Camera-Cradle-With-Joystick-/)
-- 🇺🇸 $$ [GIMBAL](https://cults3d.com/en/3d-model/gadget/2-axis-fpv-cockpit-gimbal) - 2 Axis FPV Cockpit Gimbal G-2/36 
-- 🇺🇸 $$ [GIMBAL](https://cults3d.com/en/3d-model/game/3d-printed-fpv-head-tracker-camera-for-rc-vehicles-2-axis-cradle-3d-design) - 3D Printed FPV Head Tracker Camera for RC Vehicles (2-axis Head 3D design) 
-- 🇺🇸 $$ [GIMBAL](https://cults3d.com/en/3d-model/game/atomrc-dolphin-top-gimbal-2-axis-runcam-caddx) - AtomRC Dolphin TOP Gimbal 2 axis RUNCAM - CADDX 
+- 🇺🇸 🤑 [GIMBAL](https://cults3d.com/en/3d-model/gadget/2-axis-fpv-cockpit-gimbal) - 2 Axis FPV Cockpit Gimbal G-2/36 
+- 🇺🇸 🤑 [GIMBAL](https://cults3d.com/en/3d-model/game/3d-printed-fpv-head-tracker-camera-for-rc-vehicles-2-axis-cradle-3d-design) - 3D Printed FPV Head Tracker Camera for RC Vehicles (2-axis Head 3D design) 
+- 🇺🇸 🤑 [GIMBAL](https://cults3d.com/en/3d-model/game/atomrc-dolphin-top-gimbal-2-axis-runcam-caddx) - AtomRC Dolphin TOP Gimbal 2 axis RUNCAM - CADDX 
 
 
 

@@ -17,18 +17,18 @@
 ## Introduction
 
 
-
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
 - 🇫🇷 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
 - 🇫🇷 [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
 - 🇫🇷🎥 [AirFlex - Tuto Video](https://www.youtube.com/watch?v=gub4dG2LAs4) - FPV pour les nuls
-- 🇺🇸 [Awsome List #1](https://github.com/janesmae/awesome-drones) ⭐403
-- 🇺🇸 [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft) ⭐203
-- 🇺🇸 [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv) ⭐504
-- 🇨🇳 [Awsome List #4](https://github.com/apachecn/awesome-drones-zh) ⭐485
-- 🇺🇸 [Awsome List #5](https://github.com/VisDrone/Awesome-VisDrone) ⭐194
+- 🇺🇸🥷 [Awsome List #1](https://github.com/janesmae/awesome-drones) ⭐403
+- 🇺🇸🥷 [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft) ⭐203
+- 🇺🇸🥷 [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv) ⭐504
+- 🇨🇳🥷 [Awsome List #4](https://github.com/apachecn/awesome-drones-zh) ⭐485
+- 🇺🇸🥷 [Awsome List #5](https://github.com/VisDrone/Awesome-VisDrone) ⭐194
 
 ### YOUTUBE & Influencers Resources
 - 🇫🇷🎥 [We are FPV](https://www.youtube.com/@WearefpvFr) - WE are FPV c'est LE média communautaire du (drone) FPV.
@@ -168,7 +168,7 @@
 - 🇫🇷🎥 [SpeedBoat](https://www.youtube.com/watch?v=DWK47UJGVgw) - Comment fabriquer un bateau à balancier RC imprimé en 3D à grande vitesse 
 - 🇺🇸🎥 [SpeedBoat](https://www.youtube.com/watch?v=c7WW3xf58QQ) - 10 Drone Motors on 3D Printed Boat
 - 🇺🇸🎥 [Sailboat](https://www.youtube.com/watch?v=reXc0vZ47N4) - Building a DIY Drone Sailboat
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
 
 
@@ -184,15 +184,15 @@
 - 🇺🇸 [Tuto controller - Oscar Liang](https://oscarliang.com/flight-controller/)
 - 🇺🇸 [Tuto Simulator - Oscar Liang](https://oscarliang.com/betaflight-fc-fpv-simulator/)
 
-- [BetaFlight](https://github.com/betaflight/betaflight)
-- [INAV](https://github.com/iNavFlight/inav)
-- [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot)
-- [ArduPilot](https://github.com/ArduPilot/ardupilot)
-- [Butterflight](https://github.com/ButterFlight/butterflight) - Butterflight is flight controller software (firmware) used to fly multi-rotor craft and fixed wing craft. This fork differs from Baseflight and Cleanflight in that it focuses on flight performance, leading-edge feature additions, and wide target support.
-- [Baseflight](https://github.com/multiwii/baseflight) - Baseflight is a 32 bit fork of the MultiWii RC flight controller firmware
-- [Cleanflight](https://github.com/cleanflight/cleanflight) - Cleanflight is flight controller software for multi-rotor and fixed wings. The Cleanflight project, and related projects are used on the majority of flight controllers used around the world. There is no other software used on as many flight-controllers!
-- [ROS2 - Robotic Operating System](https://github.com/ros2)
-- [paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). Paparazzi supports fixed wing, rotorcraft, hybrids, flapping vehicles and it is even possible to use it for boats and surface vehicles.
+- 🥷 [BetaFlight](https://github.com/betaflight/betaflight)
+- 🥷 [INAV](https://github.com/iNavFlight/inav)
+- 🥷 [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot)
+- 🥷 [ArduPilot](https://github.com/ArduPilot/ardupilot)
+- 🥷 [Butterflight](https://github.com/ButterFlight/butterflight) - Butterflight is flight controller software (firmware) used to fly multi-rotor craft and fixed wing craft. This fork differs from Baseflight and Cleanflight in that it focuses on flight performance, leading-edge feature additions, and wide target support.
+- 🥷 [Baseflight](https://github.com/multiwii/baseflight) - Baseflight is a 32 bit fork of the MultiWii RC flight controller firmware
+- 🥷 [Cleanflight](https://github.com/cleanflight/cleanflight) - Cleanflight is flight controller software for multi-rotor and fixed wings. The Cleanflight project, and related projects are used on the majority of flight controllers used around the world. There is no other software used on as many flight-controllers!
+- 🥷 [ROS2 - Robotic Operating System](https://github.com/ros2)
+- 🥷 [paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). Paparazzi supports fixed wing, rotorcraft, hybrids, flapping vehicles and it is even possible to use it for boats and surface vehicles.
 
 
 
@@ -204,24 +204,24 @@
 - 🇺🇸🎥 [F405 Configuration Radiomaster F405 Fixer Wing - Andrew Newton](https://www.youtube.com/watch?v=G9CZNkVmizY)
 
 ### Ground Control
-- [MAVLINK QGroundControl](https://github.com/mavlink/qgroundcontrol) - QGroundControl (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any MAVLink-enabled drone.
-- [Ardupilot MAVProxy](https://ardupilot.org/mavproxy/) - MAVProxy is a fully-functioning GCS for UAV’s, designed as a minimalist, portable and extendable GCS for any autonomous system supporting the MAVLink protocol (such as one using ArduPilot). MAVProxy is a powerful command-line based “developer” ground station software. It can be extended via add-on modules, or complemented with another ground station, such as Mission Planner, APM Planner 2, QGroundControl etc, to provide a graphical user interface.
-- [Ardupilot Mission Planner - APM](https://ardupilot.org/planner/index.html)
-- [Ardupilot Mission Planner 2 - APM2](https://ardupilot.org/planner2/) - APM Planner 2.0 is an open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
+- 🥷 [MAVLINK QGroundControl](https://github.com/mavlink/qgroundcontrol) - QGroundControl (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any MAVLink-enabled drone.
+- 🥷 [Ardupilot MAVProxy](https://ardupilot.org/mavproxy/) - MAVProxy is a fully-functioning GCS for UAV’s, designed as a minimalist, portable and extendable GCS for any autonomous system supporting the MAVLink protocol (such as one using ArduPilot). MAVProxy is a powerful command-line based “developer” ground station software. It can be extended via add-on modules, or complemented with another ground station, such as Mission Planner, APM Planner 2, QGroundControl etc, to provide a graphical user interface.
+- 🥷 [Ardupilot Mission Planner - APM](https://ardupilot.org/planner/index.html)
+- 🥷 [Ardupilot Mission Planner 2 - APM2](https://ardupilot.org/planner2/) - APM Planner 2.0 is an open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
 
 
 
 
 
 ### RX/TX
-- 🇺🇸 [ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino ELRS Transmitter
-- 🇺🇸 [ELRS](https://github.com/ExpressLRS/ExpressLRS) - Official ExpressLRS Repository
-- 🇺🇸 [Tuto ELRS - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
-- 🇺🇸 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
-- 🇺🇸 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) - This repo contains published hardware information for the AnyLeaf ELRS receivers.
+- 🇺🇸🥷 [ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino ELRS Transmitter
+- 🇺🇸🥷 [ELRS](https://github.com/ExpressLRS/ExpressLRS) - Official ExpressLRS Repository
+- 🇺🇸🥷 [Tuto ELRS - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
+- 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
+- 🇺🇸🥷 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) - This repo contains published hardware information for the AnyLeaf ELRS receivers.
 - 🇫🇷🎥 [Tuto ELRS](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
 
-- [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)
+- 🥷 [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)
 - 🇺🇸 [ELRS Bluetooth Joystick - Oscar Liang](https://oscarliang.com/expresslrs-bluetooth-joystick/)
 - 🇺🇸🎥 [Tuto RX TBS + Radiomaster (crossfire) Bind & Configuration](https://www.youtube.com/watch?v=0pihx42GtIs) - How-to Bind TBS Crossfire with Radiomaster TX16s and TBS Crossfire First Look
 - 🇺🇸🎥 [Tuto TX RadioMaster Pocket Biend & Configuration](https://www.youtube.com/watch?v=GgaWMvAHZi8) - RadioMaster Pocket - How To Set Up and Bind a Drone - Step by Step
@@ -264,10 +264,10 @@
 
 
 ### Telemetry & Logs
-- [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
-- [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
-- [INAV Lua Telemetry Flight Status for Taranis/Horus/Jumper/Nirvana](https://github.com/teckel12/LuaTelemetry)
-- [PID Analyzer](https://github.com/Plasmatree/PID-Analyzer) - This program reads Betaflight blackbox logs and calculates the PID step response. It is made as a tool for a more systematic approach to PID tuning.
+- 🥷 [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
+- 🥷 [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
+- 🥷 [INAV Lua Telemetry Flight Status for Taranis/Horus/Jumper/Nirvana](https://github.com/teckel12/LuaTelemetry)
+- 🥷 [PID Analyzer](https://github.com/Plasmatree/PID-Analyzer) - This program reads Betaflight blackbox logs and calculates the PID step response. It is made as a tool for a more systematic approach to PID tuning.
 
 
 
@@ -288,22 +288,22 @@
 
 
 ### Photogrammettry
-- [Photogrammettry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
-- [Photogrammettry NerfStudio](https://github.com/nerfstudio-project/nerfstudio)
+- 🥷 [Photogrammettry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
+- 🥷 [Photogrammettry NerfStudio](https://github.com/nerfstudio-project/nerfstudio)
 
 
 
 ### CV Tracking + Gimbal
 - [HeadTracking](https://www.youtube.com/watch?v=f2TUxoaKIsA)
-- [HeadTracking](https://github.com/rizkydermawan1992/face-detection)
+- 🥷 [HeadTracking](https://github.com/rizkydermawan1992/face-detection)
 
 
 
 
 ### Cybersecurity
 - [Reverse Firmware STM32](https://medium.com/techmaker/reverse-engineering-stm32-firmware-578d53e79b3)
-- [DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity)
-- [Awesome Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking)
+- 🥷 [DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity)
+- 🥷 [Awesome Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking)
 
 
 
@@ -311,8 +311,8 @@
 
 
 ## VRACS
-- [WIFI Radio Long Range](https://github.com/svpcom/wfb-ng)
-- [DroneCAN](https://dronecan.github.io/) - DroneCAN is the primary CAN protocol used by the ArduPilot and PX4 projects for communication with CAN peripherals
+- 🥷 [WIFI Radio Long Range](https://github.com/svpcom/wfb-ng)
+- 🥷 [DroneCAN](https://dronecan.github.io/) - DroneCAN is the primary CAN protocol used by the ArduPilot and PX4 projects for communication with CAN peripherals
 - [Drone IHM to Control](https://www.instructables.com/How-to-Control-Any-Drone-From-Your-Arduino-Microco/)
-- [WIFI OpenHD VTX?](https://github.com/OpenHD/OpenHD)
+- 🥷 [WIFI OpenHD VTX?](https://github.com/OpenHD/OpenHD)
 - 🇺🇸 [SERVO](https://surtrtech.com/2018/01/27/use-servo-motors-with-arduino/) - Use servo motors with Arduino

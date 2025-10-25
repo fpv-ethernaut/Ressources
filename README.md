@@ -9,7 +9,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 - [Introduction](#Introduction)
 - [Resources for Beginners](#resources-for-beginners)
-- [Build & Print](#build-print)
+- [Build & Print](#build-and-print)
 - [DDM - Drones designs & Models](#DDM-drones-designs-&-models)
 - [Hardware & Software](#Hardware-&-Software)
 
@@ -58,7 +58,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇺🇸🎥 [Giant Ant Cowboy](https://www.youtube.com/@GiantAntCowboy)
 
 
-## Build & Print
+## Build And Print
 3D Print Models, Ressources & Tuto to build a design, ...
 
 ### 3D Prints communauties

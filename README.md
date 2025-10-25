@@ -312,9 +312,9 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 ### Cybersecurity
-- [Reverse Firmware STM32](https://medium.com/techmaker/reverse-engineering-stm32-firmware-578d53e79b3)
-- 🥷 [DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity)
-- 🥷 [Awesome Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking)
+- 🏴‍☠️   [Reverse Firmware STM32](https://medium.com/techmaker/reverse-engineering-stm32-firmware-578d53e79b3)
+- 🏴‍☠️🥷 [DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity)
+- 🏴‍☠️🥷 [Awesome Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking)
 
 
 

@@ -25,10 +25,10 @@
 - 🇫🇷 [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
 - 🇫🇷🎥 [AirFlex - Tuto Video](https://www.youtube.com/watch?v=gub4dG2LAs4) - FPV pour les nuls
 - 🇺🇸 [Awsome List #1](https://github.com/janesmae/awesome-drones) ⭐403
-| 🇺🇸 [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft) ⭐203
-| 🇺🇸 [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv) ⭐504
-| 🇨🇳 [Awsome List #4](https://github.com/apachecn/awesome-drones-zh) ⭐485
-| 🇺🇸 [Awsome List #5](https://github.com/VisDrone/Awesome-VisDrone) ⭐194
+- 🇺🇸 [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft) ⭐203
+- 🇺🇸 [Awsome List #3](https://github.com/Matthias84/awesome-flying-fpv) ⭐504
+- 🇨🇳 [Awsome List #4](https://github.com/apachecn/awesome-drones-zh) ⭐485
+- 🇺🇸 [Awsome List #5](https://github.com/VisDrone/Awesome-VisDrone) ⭐194
 
 ### YOUTUBE & Influencers Resources
 - 🇫🇷🎥 [We are FPV](https://www.youtube.com/@WearefpvFr) - WE are FPV c'est LE média communautaire du (drone) FPV.

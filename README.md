@@ -9,7 +9,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 - [Introduction](#Introduction)
 - [Resources for Beginners](#resources-for-beginners)
-- [Build & Print](#build-&-print)
+- [Build & Print](#build-print)
 - [DDM - Drones designs & Models](#DDM-drones-designs-&-models)
 - [Hardware & Software](#Hardware-&-Software)
 

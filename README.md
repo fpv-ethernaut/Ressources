@@ -16,9 +16,6 @@
 
 ## Introduction
 
-
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
 - 🇫🇷 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range

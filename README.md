@@ -194,7 +194,6 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 ### FC, Firmware & Software
 - 🇺🇸 [Tuto controller - Oscar Liang](https://oscarliang.com/flight-controller/)
 - 🇺🇸 [Tuto Simulator - Oscar Liang](https://oscarliang.com/betaflight-fc-fpv-simulator/)
-
 - 🥷 [BetaFlight](https://github.com/betaflight/betaflight) ⭐10.2K
 - 🥷 [INAV](https://github.com/iNavFlight/inav) ⭐3.8K
 - 🥷 [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐10.3K

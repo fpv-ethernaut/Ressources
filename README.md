@@ -31,6 +31,13 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 -  Parking 🛰️📡🚀💥🧨🎯🔥✈️📎📚
 
 
+
+
+
+
+
+
+
 ---
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
@@ -84,20 +91,43 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## Build And Print
 3D Print Models, Ressources & Tuto to build a design, ...
 
 ### 3D Prints communauties
-- 🇺🇸📚 [Thingverse](https://www.thingiverse.com/)
-- 🇺🇸📚 [Printables](https://www.printables.com)
-- 🇺🇸📚 [Grabcad](https://grabcad.com/)
-- 🇺🇸📚 [myminifactory](https://www.myminifactory.com/fr/)
-- 🇺🇸📚 [pinshape](https://pinshape.com/)
-- 🇺🇸📚 [33Dwarehouse](https://3dwarehouse.sketchup.com/)
-- 🇺🇸📚 [Turbosquid](https://www.turbosquid.com/)
-- 🇺🇸📚 [Autodesk Gallery](https://www.autodesk.com/community/gallery)
-- 🇺🇸📚 [CNC drones](https://cncdrones.com/)
+- 🇺🇸📚[Thingverse](https://www.thingiverse.com/)
+- 🇺🇸📚[Printables](https://www.printables.com)
+- 🇺🇸📚[Grabcad](https://grabcad.com/)
+- 🇺🇸📚[myminifactory](https://www.myminifactory.com/fr/)
+- 🇺🇸📚[pinshape](https://pinshape.com/)
+- 🇺🇸📚[33Dwarehouse](https://3dwarehouse.sketchup.com/)
+- 🇺🇸📚[Turbosquid](https://www.turbosquid.com/)
+- 🇺🇸📚[Autodesk Gallery](https://www.autodesk.com/community/gallery)
+- 🇺🇸📚[CNC drones](https://cncdrones.com/)
+
+
+### Builds & Services
+- 🇺🇸📚[FPV Part lists and Build lost](https://rotorbuilds.com/)
 
 ### Models
 #### QUADCOPTER
@@ -177,6 +207,42 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ## DDM - Drones designs & Models
 - 🎥 [VTOL - China double wing](https://www.youtube.com/watch?v=T-KVjCXh2_s) - Fixed-wing drone with vertical takeoff unveiled at China high-tech fair
 - 🎥 [VTOL - Tandem Drone](https://www.youtube.com/watch?v=WC8hrrnOCBE) - Tandem Drone System: Quadplane carrying a Quadcopter
@@ -212,6 +278,39 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ## Hardware & Software
 
 
@@ -335,7 +434,40 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 
-### Cybersecurity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Cybersecurity
 - 🏴‍☠️   [Reverse Firmware STM32](https://medium.com/techmaker/reverse-engineering-stm32-firmware-578d53e79b3)
 - 🏴‍☠️🥷 [DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity)
 - 🏴‍☠️🥷 [Awesome Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking)

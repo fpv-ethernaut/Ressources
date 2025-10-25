@@ -64,7 +64,7 @@
 
 ### Models
 #### QUADCOPTER
-- DJI Mavic Clone Frame[#1](https://www.instructables.com/Printable-Foldable-Quadcopter-DJI-Mavic-Clone-Fram/) 
+- DJI Mavic Clone Frame [#1](https://www.instructables.com/Printable-Foldable-Quadcopter-DJI-Mavic-Clone-Fram/) 
 | [#2](https://www.thingiverse.com/thing:1904276)
 | [#3](https://www.thingiverse.com/thing:1940102)
 | [#4](https://www.thingiverse.com/thing:2004357)
@@ -216,10 +216,12 @@
 
 
 ### RX/TX
-- 🇺🇸🥷 [ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino ELRS Transmitter
-- 🇺🇸🥷 [ELRS](https://github.com/ExpressLRS/ExpressLRS) - Official ExpressLRS Repository
-- 🇺🇸🥷 [Tuto ELRS - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
-- 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
+
+
+- 🇺🇸 ELRS 🥷[Official ExpressLRS Repository](https://github.com/ExpressLRS/ExpressLRS) 
+| 🥷[Arduino ELRS Transmitter](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS)
+[Tuto - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
+- [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/)
 - 🇺🇸🥷 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) - This repo contains published hardware information for the AnyLeaf ELRS receivers.
 - 🇫🇷🎥 [Tuto ELRS](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
 

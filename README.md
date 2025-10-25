@@ -115,19 +115,19 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 3D Print Models, Ressources & Tuto to build a design, ...
 
 ### 3D Prints communauties
-- 🇺🇸📚[Thingverse](https://www.thingiverse.com/)
-- 🇺🇸📚[Printables](https://www.printables.com)
-- 🇺🇸📚[Grabcad](https://grabcad.com/)
-- 🇺🇸📚[myminifactory](https://www.myminifactory.com/fr/)
-- 🇺🇸📚[pinshape](https://pinshape.com/)
-- 🇺🇸📚[33Dwarehouse](https://3dwarehouse.sketchup.com/)
-- 🇺🇸📚[Turbosquid](https://www.turbosquid.com/)
-- 🇺🇸📚[Autodesk Gallery](https://www.autodesk.com/community/gallery)
-- 🇺🇸📚[CNC drones](https://cncdrones.com/)
+- 🇺🇸📚 [Thingverse](https://www.thingiverse.com/)
+- 🇺🇸📚 [Printables](https://www.printables.com)
+- 🇺🇸📚 [Grabcad](https://grabcad.com/)
+- 🇺🇸📚 [myminifactory](https://www.myminifactory.com/fr/)
+- 🇺🇸📚 [pinshape](https://pinshape.com/)
+- 🇺🇸📚 [33Dwarehouse](https://3dwarehouse.sketchup.com/)
+- 🇺🇸📚 [Turbosquid](https://www.turbosquid.com/)
+- 🇺🇸📚 [Autodesk Gallery](https://www.autodesk.com/community/gallery)
+- 🇺🇸📚 [CNC drones](https://cncdrones.com/)
 
 
 ### Builds & Services
-- 🇺🇸📚[FPV Part lists and Build lost](https://rotorbuilds.com/)
+- 🇺🇸📚 [FPV Part lists and Build lost](https://rotorbuilds.com/)
 
 ### Models
 #### QUADCOPTER

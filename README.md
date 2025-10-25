@@ -25,12 +25,13 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🏴‍☠️ Cybersecurity
 - 🧠 Machine Learning, IA, Autonomous
 - 🤖 Robotics
--  Parking 🛰️📡🚀💥🧨🎯🔥✈️
+- 📚 Reading Resources (Blog, website, books, ...)
+-  Parking 🛰️📡🚀💥🧨🎯🔥✈️📎📚
 
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
-- 🇫🇷 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
-- 🇫🇷 [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
+- 🇫🇷📚 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
+- 🇫🇷📚 [We Are FPV - Tuto](https://www.wearefpv.fr/le-drone-fpv-pour-les-nuls/) - FPV pour les nuls
 - 🇫🇷🎥 [AirFlex - Tuto Video](https://www.youtube.com/watch?v=gub4dG2LAs4) - FPV pour les nuls
 - 🇺🇸🥷 [Awsome List #1](https://github.com/janesmae/awesome-drones) ⭐403
 - 🇺🇸🥷 [Awsome List #2](https://github.com/ntakouris/awesome-dronecraft) ⭐203
@@ -49,7 +50,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇫🇷🎥 [AirFlex](https://www.youtube.com/@AirFlexfpv) - Salut, sur ma chaîne je poste des vidéos qui parlent principalement de drone FPV (drone racer). 
 - 🇫🇷🎥 [Paladrone](https://www.youtube.com/@paladrone) - Je vous parle d'aviation générale et partage mes expériences en navigation VFR.
 - 🇺🇸🎥 [AeroStuffFPV](https://www.youtube.com/@AeroStuffFPV) - This channel is created to share my growth in building & flying my own FPV Aircraft with the Experimental Airlines building techniques
-- 🇺🇸 [OscarLiangs](https://oscarliang.com/) - One of the most complete blog on the discipline
+- 🇺🇸📚 [OscarLiang](https://oscarliang.com/) - One of the most complete blog on the discipline
 - 🇫🇷🎥 [FractalFPV](https://www.youtube.com/@FracTaLFPV) - Si vous êtes passionné de vol en immersion (FPV) et que vous cherchez des tutoriels et des conseils pour vous aider dans ce monde passionnant, alors vous êtes au bon endroit. 
 - 🇺🇸🎥 [Andrew Newton](https://www.youtube.com/@AndrewNewton) - RC airplane and FPV gear reviews. Instructional videos, slope soaring, gliding and FPV flights, occasional Underwater videos using housed DSLR and action cams. 
 - 🇺🇸🎥 [RCLifeOn](https://www.youtube.com/@RcLifeOn) - My name is Simon Sörensen and I am the creator of RCLifeOn. I do a little bit of everything, nothing too fancy. I love 3D printing, DIY and radio controlled stuff. 
@@ -121,7 +122,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 ### Components
 #### PRINT TPU
 - [PiratFrames TPU](https://www.thingiverse.com/piratframes/designs) - PiratFrames TPU
-- [Oscarliang Designs](https://www.thingiverse.com/osliang/designs) - Oscar Liang Designs
+- 📚 [Oscarliang Designs](https://www.thingiverse.com/osliang/designs) - Oscar Liang Designs
 - [Kayou TPU](https://www.printables.com/fr/model/826353-kayoudur-5-tpu-collection) - Kayou TPU
 
 
@@ -189,17 +190,17 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 ### FC, Firmware & Software
-- 🇺🇸 [Tuto controller - Oscar Liang](https://oscarliang.com/flight-controller/)
-- 🇺🇸 [Tuto Simulator - Oscar Liang](https://oscarliang.com/betaflight-fc-fpv-simulator/)
-- 🥷 [BetaFlight](https://github.com/betaflight/betaflight) ⭐10.2K
-- 🥷 [INAV](https://github.com/iNavFlight/inav) ⭐3.8K
-- 🥷 [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐10.3K
-- 🥷 [ArduPilot](https://github.com/ArduPilot/ardupilot) ⭐13.9K
-- 🥷 [Butterflight](https://github.com/ButterFlight/butterflight) ⭐106 - Butterflight is flight controller software (firmware) used to fly multi-rotor craft and fixed wing craft. This fork differs from Baseflight and Cleanflight in that it focuses on flight performance, leading-edge feature additions, and wide target support.
-- 🥷 [Baseflight](https://github.com/multiwii/baseflight) ⭐522 - Baseflight is a 32 bit fork of the MultiWii RC flight controller firmware
-- 🥷 [Cleanflight](https://github.com/cleanflight/cleanflight) ⭐2.7k - Cleanflight is flight controller software for multi-rotor and fixed wings. The Cleanflight project, and related projects are used on the majority of flight controllers used around the world. There is no other software used on as many flight-controllers!
-- 🥷 [ROS2 - Robotic Operating System](https://github.com/ros2) ⭐3.5K
-- 🥷 [paparazzi](https://github.com/paparazzi/paparazzi) ⭐1.6K - Paparazzi is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). Paparazzi supports fixed wing, rotorcraft, hybrids, flapping vehicles and it is even possible to use it for boats and surface vehicles.
+- 🇺🇸📚 [Tuto controller - Oscar Liang](https://oscarliang.com/flight-controller/)
+- 🇺🇸📚 [Tuto Simulator - Oscar Liang](https://oscarliang.com/betaflight-fc-fpv-simulator/)
+- 🇺🇸🥷 [BetaFlight](https://github.com/betaflight/betaflight) ⭐10.2K
+- 🇺🇸🥷 [INAV](https://github.com/iNavFlight/inav) ⭐3.8K
+- 🇺🇸🥷 [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐10.3K
+- 🇺🇸🥷 [ArduPilot](https://github.com/ArduPilot/ardupilot) ⭐13.9K
+- 🇺🇸🥷 [Butterflight](https://github.com/ButterFlight/butterflight) ⭐106 - Butterflight is flight controller software (firmware) used to fly multi-rotor craft and fixed wing craft. This fork differs from Baseflight and Cleanflight in that it focuses on flight performance, leading-edge feature additions, and wide target support.
+- 🇺🇸🥷 [Baseflight](https://github.com/multiwii/baseflight) ⭐522 - Baseflight is a 32 bit fork of the MultiWii RC flight controller firmware
+- 🇺🇸🥷 [Cleanflight](https://github.com/cleanflight/cleanflight) ⭐2.7k - Cleanflight is flight controller software for multi-rotor and fixed wings. The Cleanflight project, and related projects are used on the majority of flight controllers used around the world. There is no other software used on as many flight-controllers!
+- 🇺🇸🥷 [ROS2 - Robotic Operating System](https://github.com/ros2) ⭐3.5K
+- 🇺🇸🥷 [paparazzi](https://github.com/paparazzi/paparazzi) ⭐1.6K - Paparazzi is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). Paparazzi supports fixed wing, rotorcraft, hybrids, flapping vehicles and it is even possible to use it for boats and surface vehicles.
 
 
 
@@ -211,10 +212,10 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇺🇸🎥 [F405 Configuration Radiomaster F405 Fixer Wing - Andrew Newton](https://www.youtube.com/watch?v=G9CZNkVmizY)
 
 ### Ground Control
-- 🥷 [MAVLINK QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐4k - QGroundControl (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any MAVLink-enabled drone.
-- 🥷 [Ardupilot MAVProxy](https://ardupilot.org/mavproxy/) - MAVProxy is a fully-functioning GCS for UAV’s, designed as a minimalist, portable and extendable GCS for any autonomous system supporting the MAVLink protocol (such as one using ArduPilot). MAVProxy is a powerful command-line based “developer” ground station software. It can be extended via add-on modules, or complemented with another ground station, such as Mission Planner, APM Planner 2, QGroundControl etc, to provide a graphical user interface.
-- 🥷 [Ardupilot Mission Planner - APM](https://ardupilot.org/planner/index.html)
-- 🥷 [Ardupilot Mission Planner 2 - APM2](https://ardupilot.org/planner2/) - APM Planner 2.0 is an open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
+- 🇺🇸🥷 [MAVLINK QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐4k - QGroundControl (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any MAVLink-enabled drone.
+- 🇺🇸🥷 [Ardupilot MAVProxy](https://ardupilot.org/mavproxy/) - MAVProxy is a fully-functioning GCS for UAV’s, designed as a minimalist, portable and extendable GCS for any autonomous system supporting the MAVLink protocol (such as one using ArduPilot). MAVProxy is a powerful command-line based “developer” ground station software. It can be extended via add-on modules, or complemented with another ground station, such as Mission Planner, APM Planner 2, QGroundControl etc, to provide a graphical user interface.
+- 🇺🇸🥷 [Ardupilot Mission Planner - APM](https://ardupilot.org/planner/index.html)
+- 🇺🇸🥷 [Ardupilot Mission Planner 2 - APM2](https://ardupilot.org/planner2/) - APM Planner 2.0 is an open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
 
 
 
@@ -225,16 +226,16 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 - 🇺🇸🥷 [Official ExpressLRS Repository](https://github.com/ExpressLRS/ExpressLRS)  ⭐4.5K
 - 🇺🇸🥷 [ELRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/) ⭐741
 - 🇺🇸🥷 [Arduino ELRS Transmitter](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) ⭐317
-- 🇺🇸 [Tuto - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
+- 🇺🇸📚 [Tuto - OscarLiang](https://oscarliang.com/setup-expresslrs-2-4ghz/)
 - 🇺🇸🥷 [AnyLeaf ELRS](https://github.com/AnyLeaf/elrs-hardware) ⭐54 - This repo contains published hardware information for the AnyLeaf ELRS receivers.
 - 🇫🇷🎥 [Tuto ELRS](https://www.youtube.com/watch?v=7MB7UbOJTUA) - ELRS – Pourquoi ExpressLRS change tout 📡 Et comment l’utiliser facilement
 - 🥷 [CRSF Joystick](https://github.com/mikeneiderhauser/CRSFJoystick)⭐197
-- 🇺🇸 [ELRS Bluetooth Joystick - Oscar Liang](https://oscarliang.com/expresslrs-bluetooth-joystick/)
+- 🇺🇸📚 [ELRS Bluetooth Joystick - Oscar Liang](https://oscarliang.com/expresslrs-bluetooth-joystick/)
 
 #### Radiomaster & Crossfire Binding
 - 🇺🇸🎥 [Tuto RX TBS + Radiomaster (crossfire) Bind & Configuration](https://www.youtube.com/watch?v=0pihx42GtIs) - How-to Bind TBS Crossfire with Radiomaster TX16s and TBS Crossfire First Look
 - 🇺🇸🎥 [Tuto TX RadioMaster Pocket Biend & Configuration](https://www.youtube.com/watch?v=GgaWMvAHZi8) - RadioMaster Pocket - How To Set Up and Bind a Drone - Step by Step
-- 🇺🇸 [Tuto setup TX Radiomaster Pocket - Oscar Liang](https://oscarliang.com/setup-radiomaster-pocket/)
+- 🇺🇸📚 [Tuto setup TX Radiomaster Pocket - Oscar Liang](https://oscarliang.com/setup-radiomaster-pocket/)
 - 🇺🇸🎥 [Tuto RX Configuration + iNav](https://www.youtube.com/watch?v=0JPc7RROnY4) - Connecting the receiver and setting up in iNav
 
 #### FrSky
@@ -244,9 +245,9 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 ### VTX/VRX
-- 🇺🇸 [Eachine TX805 - Oscar Liang](https://oscarliang.com/eachine-tx805-vtx/)
-- 🇺🇸 [DJI O4 Lite - Oscar Liang](https://oscarliang.com/dji-o4-air-unit-lite/)
-- 🇺🇸 [FPV Antenna - Oscar Liang](https://oscarliang.com/best-fpv-antenna/)
+- 🇺🇸📚 [Eachine TX805 - Oscar Liang](https://oscarliang.com/eachine-tx805-vtx/)
+- 🇺🇸📚 [DJI O4 Lite - Oscar Liang](https://oscarliang.com/dji-o4-air-unit-lite/)
+- 🇺🇸📚 [FPV Antenna - Oscar Liang](https://oscarliang.com/best-fpv-antenna/)
 - 🇫🇷 [VRX Comparatif - Culture FPV](https://culturefpv.fr/recepteur-video-vrx-tableau-comparatif-20180715/)
 
 
@@ -261,7 +262,7 @@ Community, Tutoriel, Software & Hardware Installation, Configuration, ...
 
 
 ### Batteries
-- 🇺🇸 [Tuto Battery - Oscar Liang](https://oscarliang.com/li-ion-battery-long-range/) - Using Li-ion Battery Packs for Long Range FPV Drone Flying
+- 🇺🇸📚 [Tuto Battery - Oscar Liang](https://oscarliang.com/li-ion-battery-long-range/) - Using Li-ion Battery Packs for Long Range FPV Drone Flying
 - [DIY BMS](https://github.com/stuartpittaway/diyBMSv4) - Do it yourself battery management system for Lithium ion battery packs/cells
 
 

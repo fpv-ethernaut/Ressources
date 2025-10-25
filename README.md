@@ -16,6 +16,10 @@
 
 ## Introduction
 
+- 🥷 Github Resources
+- 🎥 Youtube Resources
+- 🇺🇸🇫🇷🇨🇳 Main languages
+
 ## Resources for beginners
 ### Tuto for beginners & Awesomelist
 - 🇫🇷 [Kayou-Frames - Tuto](https://guide.kayou-frames.com/Le-Guide-Ultime-du-Long-Range) - Guilde Ultime du Long Range
